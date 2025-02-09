@@ -57,6 +57,10 @@ public class Operadores {
         if (condicao1 && condicao2) {
             System.out.println("as duas condições são verdadeiras");
         }
+        if (condicao2 || condicao1) {
+            System.out.println("uma das duas condições é verdadeira");
+
+        }
 
     }
 }
