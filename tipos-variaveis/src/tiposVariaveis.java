@@ -1,4 +1,4 @@
-public class tiposVariaveis {
+public class TiposVariaveis {
     public static void main(String[] args) {
         // Variáveis primitivas
         int idade = 25; // Inteiro
