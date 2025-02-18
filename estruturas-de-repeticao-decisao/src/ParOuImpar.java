@@ -28,6 +28,7 @@ public class ParOuImpar {
             } else {
                 impar.add(num);
             }
+
             System.out.println("Deseja continuar? (s/n)");
             continuar = scanner.next().toLowerCase();
 

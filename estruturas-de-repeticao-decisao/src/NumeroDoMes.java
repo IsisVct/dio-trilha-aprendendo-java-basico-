@@ -1,8 +1,9 @@
 public class NumeroDoMes {
     public static void main(String[] args) {
-        int mes = 7;
 
-        switch (mes) {
+        int mesDoAno = 7;
+
+        switch (mesDoAno) {
             case 1:
                 System.out.println("Janeiro");
                 break;

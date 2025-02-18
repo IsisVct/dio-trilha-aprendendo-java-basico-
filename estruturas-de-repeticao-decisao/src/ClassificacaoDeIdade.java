@@ -15,6 +15,7 @@ public class ClassificacaoDeIdade {
             } else {
                 Menor++;
             }
+
         }
         scanner.close();
         System.out.println("Quantidade de pessoas maiores de idade: " + Maior);
