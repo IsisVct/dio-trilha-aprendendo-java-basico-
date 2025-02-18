@@ -33,6 +33,7 @@ public class ParOuImpar {
             continuar = scanner.next().toLowerCase();
 
         } while (continuar.equals("s"));
+
         scanner.close();
 
         if (par.size() == 0) {
