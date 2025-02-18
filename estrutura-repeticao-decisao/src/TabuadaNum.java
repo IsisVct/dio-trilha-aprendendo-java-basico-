@@ -1,5 +1,4 @@
 import java.util.Scanner;
-
 public class TabuadaNum {
     public static void main(String[] args) {
 
